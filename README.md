@@ -8,6 +8,7 @@ Past project work and publications.
 - [ORCID Researcher Profile](https://orcid.org/0009-0002-2012-3107)
 - [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
 - [Huggingface](https://huggingface.co/burkestar)
+- [Kaggle](https://www.kaggle.com/burkestar)
 
 ## Research Interests
 
