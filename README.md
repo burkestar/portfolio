@@ -10,6 +10,7 @@ Past project work and publications.
 - [Huggingface](https://huggingface.co/burkestar)
 - [Kaggle](https://www.kaggle.com/burkestar)
 - [Stackoverflow](https://stackoverflow.com/users/391678/burkestar)
+- [DataCamp](datacamp.com/portfolio/burkestar)
 
 ## Research Interests
 
