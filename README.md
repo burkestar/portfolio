@@ -2,6 +2,13 @@
 
 Past project work and publications.
 
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=pozLUPgAAAAJ&hl=en)
+- [ORCID Researcher Profile](https://orcid.org/0009-0002-2012-3107)
+- [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
+- [Huggingface](https://huggingface.co/burkestar)
+
 ## Research Interests
 
 - Context-aware computing
@@ -18,12 +25,6 @@ Past research areas:
 - Cybersecurity
 - Geospatial Analysis
 - Counter-insurgency and terrorism
-
-## Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=pozLUPgAAAAJ&hl=en)
-- [ORCID Researcher Profile](https://orcid.org/0009-0002-2012-3107)
-- [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
 
 ## Patents
 
