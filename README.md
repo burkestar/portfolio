@@ -2,7 +2,7 @@
 
 Past project work and publications.
 
-Interests:
+## Research Interests
 
 - Context-aware computing
 - Engineering Productivity
@@ -19,12 +19,16 @@ Past research areas:
 - Geospatial Analysis
 - Counter-insurgency and terrorism
 
-Profiles:
+## Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=pozLUPgAAAAJ&hl=en)
 - [ORCID Researcher Profile](https://orcid.org/0009-0002-2012-3107)
 - [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
 
+## Patents
+
+- [Software testing using machine learning](https://patents.google.com/patent/US12072792B2) (2024) - Active
+- [Systems and methods for using machine learning with epidemiological modeling](https://patents.google.com/patent/US20230051833A1/) (2022)
 
 ## Publications
 
