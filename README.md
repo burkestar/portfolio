@@ -9,6 +9,7 @@ Past project work and publications.
 - [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
 - [Huggingface](https://huggingface.co/burkestar)
 - [Kaggle](https://www.kaggle.com/burkestar)
+- [Stackoverflow](https://stackoverflow.com/users/391678/burkestar)
 
 ## Research Interests
 
