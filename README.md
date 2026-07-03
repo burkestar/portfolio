@@ -2,14 +2,28 @@
 
 Past project work and publications.
 
-Research areas:
+Interests:
 
+- Context-aware computing
+- Engineering Productivity
+- Developer Experience
+- Human-centered Engineering
+- Human-Machine Interaction
 - Intelligent Agents
-- Human-Robot Interaction
-- Cybersecurity (botnet detection)
+- Artificial Intelligence
+
+Past research areas:
+
 - Semantic reasoning
+- Cybersecurity
 - Geospatial Analysis
 - Counter-insurgency and terrorism
+
+Profiles:
+
+- [Google Scholar](https://scholar.google.com/citations?user=pozLUPgAAAAJ&hl=en)
+- [ORCID Researcher Profile](https://orcid.org/0009-0002-2012-3107)
+- [Crunchbase Profile](https://www.crunchbase.com/person/dustin-burke-fc1c)
 
 
 ## Publications
